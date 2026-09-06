@@ -3,9 +3,9 @@ A mini CPU built in Logisim Evolution that is capable of loading and storing mem
 Includes a Python-based assembler that translates custom-built assembly language to executable images
 
 CPU Architecture<br>
-    - 4 general registers<br>    
-    - 2 rams<br>    
-    - ALU for arithmetic instructions<br>    
-    - Instructions: ADD, SUB, LDR, STR (8 bit)<br>    
+* 4 general registers
+* 2 rams   
+* ALU for arithmetic instructions    
+* Instructions: ADD, SUB, LDR, STR (8 bit)   
 
 Refer to the instruction manual to run the CPU
